@@ -4,4 +4,4 @@ Welcome to my online medical store.
 
 # Homepage
 
-![Homepage](screenshots/homepage.png)
+![homepage](screenshots/homepage.png)
