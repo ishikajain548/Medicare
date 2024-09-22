@@ -33,7 +33,7 @@ In the ever-evolving landscape of healthcare, our venture aims to revolutionize 
 ![categories](screenshots/categories.png)
 ![products](screenshots/products.png)
 ![partners](screenshots/partners.png)
-![footer](screenshots/partners.png)
+![footer](screenshots/footer.png)
 ![cart](screenshots/cart.png)
 ![checkout](screenshots/checkout.png)
 ![invoice](screenshots/invoice.png)
